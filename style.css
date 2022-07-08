@@ -1,0 +1,15 @@
+html {
+    background-color: beige;
+}
+
+.title {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    color: brown;
+}
+
+.recipes {
+    font-size: 18px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    color: lightcoral;
+}
