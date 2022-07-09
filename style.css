@@ -8,8 +8,20 @@ html {
     color: brown;
 }
 
-.recipes {
+.subtitle {
+    font-size: 20px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    color: coral;
+}
+
+.steps {
     font-size: 18px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    color: coral;
+}
+
+p, ul, ol {
+    font-size: 16px;
     font-family: 'Times New Roman', Helvetica, sans-serif;
     color: lightcoral;
 }
